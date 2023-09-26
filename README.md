@@ -1,30 +1,25 @@
-# Number Plate Detection Using EasyOCR
+# Number Plate Detection Using EasyOCR on Google Colab
 
 ![Number Plate Detection](demo.png)
 
-This project demonstrates number plate detection using the EasyOCR library. It allows you to extract and recognize license plates from images or video streams.
+This project demonstrates number plate detection using the EasyOCR library in a Google Colab environment. It allows you to extract and recognize license plates from images or video streams.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Usage on Google Colab](#usage-on-google-colab)
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
 
-Before using this project, ensure you have the following dependencies installed:
+Before using this project on Google Colab, ensure you have a Google account, and you're familiar with using Google Colab.
 
-- Python (>= 3.6)
-- EasyOCR library: Install using `pip install easyocr`
-- OpenCV: Install using `pip install opencv-python`
-- NumPy: Install using `pip install numpy`
+## Usage on Google Colab
 
-## Installation
+To run this project on Google Colab, follow these steps:
 
-1. Clone this repository to your local machine:
+1. Open Google Colab: Go to [Google Colab](https://colab.research.google.com/).
 
-   ```bash
-   git clone https://github.com/Srujan-rai/numberplate_recognition
-   cd numberplate_recognition
+2. Import the project notebook: Click on "File" > "Open notebook" and enter the following GitHub URL in the "GitHub" tab:
+
