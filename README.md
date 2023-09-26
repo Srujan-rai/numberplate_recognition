@@ -1,6 +1,6 @@
 # Number Plate Detection Using EasyOCR
 
-![Number Plate Detection](number_plate_detection.png)
+![Number Plate Detection](demo.png)
 
 This project demonstrates number plate detection using the EasyOCR library. It allows you to extract and recognize license plates from images or video streams.
 
