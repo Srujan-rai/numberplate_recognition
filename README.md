@@ -21,5 +21,5 @@ To run this project on Google Colab, follow these steps:
 
 1. Open Google Colab: Go to [Google Colab](https://colab.research.google.com/).
 
-2. Import the project notebook: Click on "File" > "Open notebook" and enter the following GitHub URL in the "GitHub" tab:
+2. Import the project notebook: Click on "File" > "Open notebook" and enter the following GitHub URL in the "GitHub" tab:https://github.com/Srujan-rai/numberplate_recognition/blob/main/Number_Plate_Detection.ipynb
 
